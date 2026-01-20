@@ -1,7 +1,7 @@
 body {
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url("háttér.jpg");
+  background-image: url(hatter.jpg)
 }
 
 li {
@@ -33,6 +33,19 @@ footer {
 
 #oldal{
   background-color: rgba(0, 0, 0, 0,75);
-  margin: 100px 50px 0px
+  margin: 100px 50px 0px;
   padding: 50px
+}
+h1{
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+}
+h2{
+  color: white;
+}
+p{
+  color: white;
+  text-align: justify;
+  font-size: 18px;
 }
