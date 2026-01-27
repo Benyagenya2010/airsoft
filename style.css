@@ -15,6 +15,9 @@ li {
   margin-left: 25px;
   border: 6px dashed white;
 }
+.bekezdés{
+  font-weight: bold;
+}
 
 footer {
   background-color: #2b2a2a;
@@ -24,6 +27,7 @@ footer {
 a {
   text-decoration: none;
 }
+
 
 footer {
   text-align: center;
@@ -53,4 +57,3 @@ p{
   text-align: justify;
   font-size: 18px;
 }
-
